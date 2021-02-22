@@ -1,0 +1,161 @@
+/* 主题a */
+.themea .changeColor {
+  background: #FF0000 !important;
+  color: #fff !important;
+}
+.themea .fontColor {
+  color: #fff !important;
+}
+.themea #appWrapper .el-dialog__header {
+  background: #FF0000 !important;
+  height: 20px;
+  line-height: 20px;
+  padding: 10px;
+}
+/* .themea #appWrapper .el-dialog */
+.v-modal{
+  z-index: 2 !important;
+}
+.themea #appWrapper .el-dialog__header .el-dialog__title {
+  color: #fff;
+  margin-left: 10px;
+  font-size: 16px;
+}
+.themea #appWrapper .el-dialog__header .el-dialog__headerbtn {
+  top: 10px;
+  right: 10px;
+}
+.themea #appWrapper .el-dialog__header .el-icon-close {
+  color: #fff;
+}
+.themea #appWrapper .el-step .scus {
+  background: #FF0000 !important;
+}
+/* 主题b */
+.themeb .changeColor {
+  background: blue !important;
+  color: #fff !important;
+}
+.v-modal{
+  z-index: 2 !important;
+}
+.themeb .fontColor {
+  color: #fff !important;
+}
+.themeb #appWrapper .el-dialog__header {
+  background: blue !important;
+  height: 20px;
+  line-height: 20px;
+  padding: 10px;
+}
+.themeb #appWrapper .el-dialog__header .el-dialog__title {
+  color: #fff;
+  margin-left: 10px;
+  font-size: 16px;
+}
+.themeb #appWrapper .el-dialog__header .el-dialog__headerbtn {
+  top: 10px;
+  right: 10px;
+}
+.themeb #appWrapper .el-dialog__header .el-icon-close {
+  color: #fff;
+}
+.themeb #appWrapper .el-step .scus {
+  background: blue !important;
+}
+/* 主题c */
+.themec .changeColor {
+  background: #111 !important;
+  color: #999 !important;
+}
+.themec .fontColor {
+  color: #999 !important;
+}
+.v-modal{
+  z-index: 2 !important;
+}
+.themec #appWrapper .el-dialog__header {
+  background: #111 !important;
+  height: 20px;
+  line-height: 20px;
+  padding: 10px;
+}
+.themec #appWrapper .el-dialog__header .el-dialog__title {
+  color: #999;
+  margin-left: 10px;
+  font-size: 16px;
+}
+.themec #appWrapper .el-dialog__header .el-dialog__headerbtn {
+  top: 10px;
+  right: 10px;
+}
+.themec #appWrapper .el-dialog__header .el-icon-close {
+  color: #999;
+}
+.themec #appWrapper .el-step .scus {
+  background: #111 !important;
+}
+/* 主题D */
+.themed .changeColor {
+  background: #fe6b38 !important;
+  color: #999 !important;
+}
+.themed .fontColor {
+  color: #999 !important;
+}
+.v-modal{
+  z-index: 2 !important;
+}
+.themed #appWrapper .el-dialog__header {
+  background: #fe6b38 !important;
+  height: 20px;
+  line-height: 20px;
+  padding: 10px;
+}
+.themed #appWrapper .el-dialog__header .el-dialog__title {
+  color: #999;
+  margin-left: 10px;
+  font-size: 16px;
+}
+.themed #appWrapper .el-dialog__header .el-dialog__headerbtn {
+  top: 10px;
+  right: 10px;
+}
+.themed #appWrapper .el-dialog__header .el-icon-close {
+  color: #999;
+}
+.themed #appWrapper .el-step .scus {
+  background: #fe6b38 !important;
+}
+/* 主题E */
+.themee .changeColor {
+  background: #009d5e !important;
+  color: #999 !important;
+}
+.themee .fontColor {
+  color: #999 !important;
+}
+.v-modal{
+  z-index: 2 !important;
+}
+.themee #appWrapper .el-dialog__header {
+  background: #009d5e !important;
+  height: 20px;
+  line-height: 20px;
+  padding: 10px;
+}
+.themee #appWrapper .el-dialog__header .el-dialog__title {
+  color: #999;
+  margin-left: 10px;
+  font-size: 16px;
+}
+.themee #appWrapper .el-dialog__header .el-dialog__headerbtn {
+  top: 10px;
+  right: 10px;
+}
+.themee #appWrapper .el-dialog__header .el-icon-close {
+  color: #999;
+}
+.themee #appWrapper .el-step .scus {
+  background: #009d5e !important;
+}

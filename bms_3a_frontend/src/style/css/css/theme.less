@@ -1,0 +1,56 @@
+.theme(@backcolor:#FF0000,@fcolor:#fff) {
+	.changeColor {
+		background: @backcolor !important;
+		color: @fcolor !important;
+	}
+	.fontColor {
+		color: @fcolor !important;
+	}
+	.el-date-editor{
+		width:100% !important;
+	}
+	.el-dialog__header {
+		background: @backcolor !important;
+		height: 20px;
+		line-height: 20px;
+		padding: 10px;
+		.el-dialog__title {
+			color: @fcolor !important;
+			margin-left: 10px;
+			font-size: 16px;
+		}
+		.el-dialog__headerbtn {
+			top: 10px;
+			right: 10px;
+		}
+		.el-icon-close {
+			color: @fcolor;
+		}
+	}
+	.v-modal{
+		z-index: 12 !important;
+	}
+	.cur {
+		background: @backcolor !important;
+	}
+	.el-menu-item.is-active {
+		color: @backcolor !important;
+	}
+}
+
+.themea{
+	.theme(#FF0000 , #fff);
+}
+.themeb{
+	.theme(#3EA2C0,#fff);
+}
+.themec{
+	.theme(#D54A45,#fff);
+}
+.themed{
+  .theme(#fe6b38,#fff);
+}
+.themee{
+  .theme(#009d5e,#fff);
+}
+

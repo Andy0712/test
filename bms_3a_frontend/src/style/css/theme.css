@@ -1,0 +1,97 @@
+/* 主题a */
+.themea .changeColor {
+  background: #FF0000 !important;
+  color: #fff !important;
+}
+.themea .fontColor {
+  color: #fff !important;
+}
+.themea .el-dialog__header {
+  background: #FF0000 !important;
+  height: 20px;
+  line-height: 20px;
+  padding: 10px;
+}
+.themea .el-dialog__header .el-dialog__title {
+  color: #fff !important;
+  margin-left: 10px;
+  font-size: 16px;
+}
+.themea .el-dialog__header .el-dialog__headerbtn {
+  top: 10px;
+  right: 10px;
+}
+.themea .el-dialog__header .el-icon-close {
+  color: #fff;
+}
+.themea .cur {
+  background: #FF0000 !important;
+}
+.themea .el-menu-item.is-active {
+  color: #FF0000 !important;
+}
+.themeb .changeColor {
+  background: #3EA2C0 !important;
+  color: #fff !important;
+}
+.v-modal{
+  z-index: 2 !important;
+}
+.themeb .fontColor {
+  color: #fff !important;
+}
+.themeb .el-dialog__header {
+  background: #3EA2C0 !important;
+  height: 20px;
+  line-height: 20px;
+  padding: 10px;
+}
+.themeb .el-dialog__header .el-dialog__title {
+  color: #fff !important;
+  margin-left: 10px;
+  font-size: 16px;
+}
+.themeb .el-dialog__header .el-dialog__headerbtn {
+  top: 10px;
+  right: 10px;
+}
+.themeb .el-dialog__header .el-icon-close {
+  color: #fff;
+}
+.themeb .cur {
+  background: #3EA2C0 !important;
+}
+.themeb .el-menu-item.is-active {
+  color: #3EA2C0 !important;
+}
+.themec .changeColor {
+  background: #D54A45 !important;
+  color: #fff !important;
+}
+.themec .fontColor {
+  color: #fff !important;
+}
+.themec .el-dialog__header {
+  background: #D54A45 !important;
+  height: 20px;
+  line-height: 20px;  
+  padding: 10px;
+}
+.themec .el-dialog__header .el-dialog__title {
+  color: #fff !important;
+  margin-left: 10px;
+  font-size: 16px;
+}
+.themec .el-dialog__header .el-dialog__headerbtn {
+  top: 10px;
+  right: 10px;
+}
+.themec .el-dialog__header .el-icon-close {
+  color: #fff;
+}
+.themec .cur {
+  background: #D54A45 !important;
+}
+.themec .el-menu-item.is-active {
+  color: #D54A45 !important;
+}

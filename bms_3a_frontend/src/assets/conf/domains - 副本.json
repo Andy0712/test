@@ -1,0 +1,19 @@
+{
+  "domains": {
+    "$": {
+      "timeout": 10000
+    },
+    "uspa": {
+      "baseURL": "http://127.0.0.1:8081/module-login"
+    },
+    "cnpost": {
+      "baseURL": "http://127.0.0.1:8081/module-basic-measure"
+    },
+    "taskpost": {
+      "baseURL": "http://127.0.0.1:9394/"
+    },
+    "taskresultpost": {
+      "baseURL": "http://127.0.0.1:9393/"
+    }
+  }
+}

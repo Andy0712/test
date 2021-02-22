@@ -1,0 +1,20 @@
+{
+  "branchList": {
+    "Add_Branch":"/bms3a/branch/insert",
+    "QueryByBranchid":"/bms3a/branch/queryByBranchid",
+    "AllList":"/bms3a/branch/query",
+    "EditStatus":"/bms3a/branch/setBranchStatus",
+    "Update":"/bms3a/branch/update"
+  },
+  "Role":{
+    "AddInsert":"/bms3a/role/insert",
+    "RoleList":"/bms3a/role/query",
+    "downLoad":"/bms3a/role/exportExcel",
+    "Deleted":"/bms3a/role/delete",
+    "Edit":"/bms3a/role/update",
+    "UpFile":"/bms3a/role/readExcel"
+  },
+  "LOGIN": {
+    "DO_LOGIN": "/bms3a/login"
+  }
+}
